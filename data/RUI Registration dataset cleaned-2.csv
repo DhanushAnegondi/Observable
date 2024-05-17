@@ -1,0 +1,162 @@
+Dataset Type,Organ,Registration Status,Dataset Link,HuBMAP Member
+Azimuth - Reference dataset,PBMC,NOT PARTICIPATING,"Hao and Hao et al, bioRvix 2020",yes
+Azimuth - Reference dataset,Brain,Complete & in public EUI,"Bakken et al, bioRxiv 2020",no
+Azimuth - Reference dataset,Pancreas,No reply from author,"Grün et al, Cell Stem Cell 2016",no
+Azimuth - Reference dataset,Pancreas,No reply from author,"Muraro, Dharmadhikari et al, Cell Systems 2016",no
+Azimuth - Reference dataset,Pancreas,NOT PARTICIPATING,"Segerstolpe, Palasantza, et al, Cell Metabolism 2016",yes
+Azimuth - Reference dataset,Pancreas,NOT PARTICIPATING,"Lawlor, George, et al, Genome Research 2017",no
+Azimuth - Reference dataset,Pancreas,No reply from author,"Baron, Veres, Wolock, Faust et al, Cell Systems 2016",no
+Azimuth - Reference dataset,Pancreas,NOT PARTICIPATING,"Xin et al, J. Vis. Exp 2019",no
+Azimuth - Reference dataset,Fetal Development,NOT PARTICIPATING,"Cao et al, Science 2020",yes
+Azimuth - Reference dataset,Kidney,Complete & in public EUI,"Lake et al, bioRxiv 2021",yes
+Azimuth - Reference dataset,Bone Marrow,Complete & in public EUI,"[Oetjen et al., 2018]",no
+Azimuth - Reference dataset,Bone Marrow,Collecting metadata,"[Granja, Klemm, McGinnis, et al. 2019]",yes
+Azimuth - Reference dataset,Bone Marrow,NOT PARTICIPATING,[Human Cell Atlas Immune Cell Census],no
+Azimuth - Reference dataset,Lung,NOT PARTICIPATING,"Travaglini et al., 2020",no
+Azimuth - Reference dataset,Lung, No reply from author,"Misharin et al., 2018",no
+Azimuth - Reference dataset,Lung, No reply from author,"[Goldfarbmuren et al., 2020]",no
+Azimuth - Reference dataset,Lung,Collecting metadata,"[Habermann et al., 2020]",no
+Azimuth - Reference dataset,Lung,Collecting metadata,"Xin et al, J. Vis. Exp 2019",no
+Azimuth - Reference dataset,Lung,Collecting metadata,"[Deprez et al., 2020]",no
+Azimuth - Reference dataset,Lung,No reply from author,"[Vieira Braga et al., 2019],",yes
+Azimuth - Reference dataset,Lung,NOT PARTICIPATING,"[Morse et al., 2019],",no
+Azimuth - Reference dataset,Lung, Complete & in public EUI,"[Madissoon et al., 2020]",no
+Azimuth - Reference dataset,Adipose,No reply from author,"Vijay et al., 2020",no
+Azimuth - Reference dataset,Tonsil,No reply from author,"Massoni-Badosa et al., 2022",no
+Azimuth - Reference dataset,Heart,NOT PARTICIPATING," [Hocker et al., 2021]",no
+Azimuth - Reference dataset,Heart,RUI configuration files complete,"[Koenig et al., 2022]",no
+Azimuth - Reference dataset,Heart,Complete & in public EUI,"[Litviňuková et al., 2020]",yes
+community datasets,Lung,No reply from author,"Adams, Schupp, Poli et al, Science Advances 2020",no
+community datasets,Kidney,No reply from author,"Delorey et al, Nature 2021",no
+community datasets,Liver,No reply from author,"Delorey et al, Nature 2021",no
+community datasets,Heart,No reply from author,"Delorey et al, Nature 2021",no
+community datasets,Lung, No reply from author,"Delorey et al, Nature 2021",no
+community datasets,Pancreas,No reply from author,"Baron, Veres, Wolock, Faust et al, Cell Systems 2016",no
+community datasets,Pancreas,NOT PARTICIPATING,"Segerstolpe, Palasantza, et al, Cell Metabolism 2016",yes
+community datasets,Lung,No reply from author,"Lukassen, Chua, Trefzer, Kahn, Schneider, et al, EMBO J. 2020",no
+community datasets,Kidney, Collecting metadata,"Lake et al, bioRxiv 2021",yes
+community datasets,Lung, No reply from author,"Mayr et al, EMBO Molecular Medicine 2021",no
+community datasets,Lung,NOT PARTICIPATING,"Cao et al, Science 2020",yes
+community datasets,Lung, No reply from author,"[Reyfman, Walter, Joshi, et al, Am J Respir Crit Care Med. 2019",no
+demo,PBMC,No reply from author,"11,769 PBMCs from 10x Genomics",-
+demo,Brain,No reply from author,Subset of M1C Data (Portal) [Seurat Object],-
+demo,Pancreas,No reply from author,"Enge et al, Cell 2017",no
+demo,Fetal Development,No reply from author,"Asp et al, Cell 2019",no
+demo,Fetal Development,No reply from author,"Enge et al, Cell 2017",no
+demo,Fetal Development,No reply from author,"Lindstrom et al, Developmental Cell 2018",no
+demo,Fetal Development,NOT PARTICIPATING,"Xin et al, J. Vis. Exp 2019",no
+demo,Lung,No reply from author,"Delorey et al, Nature 2021",no
+demo,Kidney,No reply from author,"Stewart et al., Science 2019",no
+demo,Bone Marrow,NOT PARTICIPATING,"Lake et al, bioRxiv 2021",yes
+demo,Lung,NOT PARTICIPATING,"The Tabula Sapiens Consortium et al., bioRxiv 2021",no
+demo,Tonsil,No reply from author,"King et al., 2021",no
+demo,Heart, Complete & in public EUI,,no
+Demo datasets,Liver,,"Guilliams et al., 2022",
+Flagship,Spleen,Complete & in public EUI,,yes
+Flagship,Lymph node, Complete & in public EUI,,yes
+Flagship,Large Intestine,Complete & in public EUI,,yes
+Flagship,Small Intestine, Complete & in public EUI,,yes
+Flagship,Kidney,Complete & in public EUI,,yes
+Flagship,Kidney, Complete & in public EUI,,yes
+Flagship,Placenta,NOT PARTICIPATING,,yes
+Flagship,Skin,Complete & in public EUI,,yes
+GUDMAP,Ureter, No reply from author,,
+GUDMAP,Kidney,Collecting metadata,,Yes
+GUDMAP,Kidney,Collecting metadata,,
+Immune Cell Atlas,Tonsil,No reply from author,,no
+Immune Cell Atlas,Eye,Complete & in public EUI,,no
+Immune Cell Atlas,Colon,No reply from author,,yes
+Immune Cell Atlas,Blood,No reply from author,,yes
+Immune Cell Atlas,Skin,No reply from author,,yes
+Immune Cell Atlas,Intestine,No reply from author,,no
+Immune Cell Atlas,Omentum adipose tissue,No reply from author,,no
+Immune Cell Atlas,Trachea,No reply from author,,no
+Immune Cell Atlas,Lung,No reply from author,,no
+Immune Cell Atlas,Kidney,No reply from author,,no
+Immune Cell Atlas,"Colon, Blood",No reply from author,,no
+Immune Cell Atlas,Upper Airway,No reply from author,,yes
+Immune Cell Atlas,Lung,No reply from author,,yes
+Immune Cell Atlas,Colon,No reply from author,,no
+Immune Cell Atlas,Intestine,No reply from author,,no
+Immune Cell Atlas,Lymph node,No reply from author,,no
+Immune Cell Atlas,lung,No reply from author,,no
+Immune Cell Atlas,Bone Marrow,No reply from author,,no
+Immune Cell Atlas,Blood,No reply from author,,no
+Immune Cell Atlas,Blood,No reply from author,,no
+Immune Cell Atlas,Decidua,No reply from author,,yes
+Immune Cell Atlas,Placenta,No reply from author,,yes
+Immune Cell Atlas,Blood,No reply from author,,yes
+Immune Cell Atlas,Mesenteric Lymph node,No reply from author,,yes
+Immune Cell Atlas,Colon,No reply from author,,yes
+Immune Cell Atlas,Liver,No reply from author,,yes
+Immune Cell Atlas,Oesophagus,RUI configuration files complete,,no
+Immune Cell Atlas,Spleen,RUI configuration files complete,,no
+Immune Cell Atlas,Thymus,No reply from author,,yes
+Immune Cell Atlas,Bone Marrow,No reply from author,,no
+Immune Cell Atlas,Blood,No reply from author,,no
+Major Atlas papers,Large Intestine,No reply from author,,no
+Major Atlas papers,Small Intestine,No reply from author,,no
+Major Atlas papers,Lymph Node,RUI configuration files complete,https://hubmapconsortium.github.io/ccf-releases/v1.4/docs/omap/omap-1-human-lymph-node-ibex.html,
+Major Atlas papers,Large Intestine,RUI configuration files complete,https://hubmapconsortium.github.io/ccf-releases/v1.4/docs/omap/omap-2-intestine-codex.html,
+Major Atlas papers,Small Intestine,RUI configuration files complete,https://hubmapconsortium.github.io/ccf-releases/v1.4/docs/omap/omap-2-intestine-codex.html,
+Major Atlas papers,Kidney,No reply from author,https://hubmapconsortium.github.io/ccf-releases/v1.4/docs/omap/omap-3-kidney-codex.html,
+Major Atlas papers,Skin,Meeting scheduled,https://hubmapconsortium.github.io/ccf-releases/v1.4/docs/omap/omap-4-skin-cell-dive.html,
+Major Atlas papers,Liver,Meeting scheduled,https://hubmapconsortium.github.io/ccf-releases/v1.4/docs/omap/omap-5-liver-sims.html,
+Major Atlas papers,Pancreas,RUI configuration files complete,https://hubmapconsortium.github.io/ccf-releases/v1.3/docs/omap/omap-6-pancreas-codex.html,no
+Major Atlas papers,Lung,Complete & in public EUI,https://hubmapconsortium.github.io/ccf-releases/v1.4/docs/omap/omap-7-lung-cell-dive.html,
+Major Atlas papers,Placenta,,https://hubmapconsortium.github.io/ccf-releases/v1.4/docs/omap/omap-8-placenta-full-term-imc.html,
+Major Atlas papers,Kidney,,https://hubmapconsortium.github.io/ccf-releases/v1.4/docs/omap/omap-9-kidney-codex.html,
+Major Atlas papers,Palatine tonsil,,https://hubmapconsortium.github.io/ccf-releases/v1.4/docs/omap/omap-10-palatine-tonsil-macsima.html,
+Major Atlas papers,Spleen,,https://hubmapconsortium.github.io/ccf-releases/v1.4/docs/omap/omap-11-spleen-ibex.html,
+Major Atlas papers,Eye retina,,https://hubmapconsortium.github.io/ccf-releases/v1.4/docs/omap/omap-12-eye-retina-ibex.html,
+Major Atlas papers,Pancreas,,https://hubmapconsortium.github.io/ccf-releases/v1.4/docs/omap/omap-13-pancreas-codex.html,
+Other,Large Intestine,Complete & in public EUI,https://datadryad.org/stash/dataset/doi:10.5061/dryad.g4f4qrfrc,yes
+Other,Small Intestine,Complete & in public EUI,https://datadryad.org/stash/dataset/doi:10.5061/dryad.g4f4qrfrc,yes
+Other,Eye,RUI files in-progress,,no
+Other,Eye,RUI files in-progress,,no
+Other,Lung,No reply from author,,no
+Other,Lung,No reply from author,,no
+Other,Kidney,Collecting metadata,,no
+Other,Kidney,Collecting metadata,,no
+Other,Ureter,No reply from author,,no
+Other,Pancreas,No reply from author,,no
+Other,HTAN data (NEED DOI),Need Author Info,HTAN data (NEED DOI),no
+Other,Liver,Need Author Info,,no
+Other,,No reply from author,Eraslan et al.,no
+Other,Pancreas, Collecting metadata,,no
+Other,Lung,Complete & in public EUI,https://celltype.info/CAPinitialRelease/LungMAP-Human-data-from-a-broad-age-healthy-donor-group/3,no
+Other,Kidney,No reply from author,,no
+Other,Skin,No reply from author,,no
+Other,jejunum,No reply from author,,no
+Other,Liver,No reply from author,,no
+Other,Spleen,No reply from author,,no
+Other,Lymph Node,No reply from author,,no
+Other,Not Defined,RUI files in-progress,,no
+Other,Liver,No reply from author,,no
+Other,Large Intestine,No reply from author,,
+Other,Small Intestine,No reply from author,,
+Other,Lung,Collecting metadata,https://data.humancellatlas.org/explore/projects/957261f7-2bd6-4358-a6ed-24ee080d5cfc,yes
+Other,Large intestine,Need Author Info,???,???
+Other,Liver,Collecting metadata,,
+Other,Liver,No reply from author,,
+Other,Breast,NOT PARTICIPATING,,
+Reference datasets,Liver,Need Author Info,"Aizarani et al., 2019",
+Reference datasets,Liver,Need Author Info,"Ramachandran et al., 2019",
+Reference datasets,Liver,Need Author Info,"Zhang et al., 2020",
+Reference datasets,Liver,Need Author Info,"Macparland et al., 2018",
+Reference datasets,Liver, Need Author Info,"Payen et al., 2020",
+SenNet,Adipose Tissue,NOT PARTICIPATING,,
+SenNet,Brain,RUI files in-progress,,
+Tool,Brain,NOT PARTICIPATING,,
+Other,Brain,Need Author Info,https://doi.org/10.1038/s41593-020-00787-0,No
+Other,, Need Author Info,https://www.10xgenomics.com/resources/datasets?query=&page=1&configure%5BhitsPerPage%5D=50&configure%5BmaxValuesPerFacet%5D=1000&refinementList%5Bspecies%5D%5B0%5D=Human&refinementList%5BdiseaseStates%5D%5B0%5D=healthy,
+Other,Brain,Need Author Info,http://research.libd.org/spatialLIBD/,
+Major Atlas papers,Large Intestine,No reply from author,,
+Major Atlas papers,Small Intestine, No reply from author,,
+Other,Breast,Need Author Info,,
+Other,Fallopian Tube (postmenopausal),Need Author Info,,
+Other,Ovary (postmenopausal),Need Author Info,,
+Major Atlas papers,Bone Marrow, Need Author Info,,
+Major Atlas papers,Brain, Need Author Info,,
+Other,30 organs,Data not ready yet,,No
+U24 CFDE,Aorta,Data not ready yet,,
